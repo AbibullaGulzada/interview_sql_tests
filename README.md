@@ -13,7 +13,7 @@ Task2
 Task3
 -- SELECT
 -- name, COUNT(*)
--- FROM Passenger
+-- From Passenger
 -- GROUP BY name
 -- HAVING COUNT(*)>1
 -- ORDER BY COUNT(*) DESC;
